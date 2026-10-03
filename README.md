@@ -9,6 +9,9 @@
 
 # DISCLAIMER: Oct-3rd 2026. AWAITING MANUFACTURE FOR HARDWARE VERIFICATION! \ 3 Жовтня 2026. Чекає на друк для підтвердження фізичної придатності!
 
+# Key Feature from my POV: PCB dimensions are 30x30mm, which makes it suitable for smail DIY embedded devices\IoT
+# Ключова для мене фіча, що приймалась за основу при розробці - малі габарити 30х30мм, що робить її зручною для використання в маленьких embedded-самодєлках.
+
 Compact configurable MOSFET carrier board for small power-switching and control applications.
 
 REV-A combines two configurable MOSFET stages on one PCB:
