@@ -4,7 +4,7 @@
   <img src="IMG/001.PNG" alt="Universal MOSFET Key PCB REV-A" width="700">
 </p>
 <p align="center">
-  <img src="IMG/002.PNG" alt="Universal MOSFET Key PCB REV-A" width="700">
+  <img src="IMG/004.PNG" alt="Universal MOSFET Key PCB REV-A" width="700">
 </p>
 
 # DISCLAIMER: Oct-3rd 2026. AWAITING MANUFACTURE FOR HARDWARE VERIFICATION! \ 3 Жовтня 2026. Чекає на друк для підтвердження фізичної придатності!
