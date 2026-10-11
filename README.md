@@ -7,7 +7,8 @@
   <img src="IMG/005.PNG" alt="Universal MOSFET Key PCB REV-A" width="700">
 </p>
 
-# DISCLAIMER: Oct-3rd 2026. AWAITING MANUFACTURE FOR HARDWARE VERIFICATION! \ 3 Жовтня 2026. Чекає на друк для підтвердження фізичної придатності!
+
+# DISCLAIMER: Oct-11th, 2026. Manifacture confirmed. Actual device is working as expected. \ 11 Жовтня 2026. ФІЗИЧНА ПРИДАТНІСТЬ ПІДТВЕРДЖЕНА!
 
 # Key Feature from my POV: PCB dimensions are 30x30mm, which makes it suitable for smail DIY embedded devices\IoT
 # Ключова для мене фіча, що приймалась за основу при розробці - малі габарити 30х30мм, що робить її зручною для використання в маленьких embedded-самодєлках.
